@@ -1,2 +1,1 @@
-# FreePythonCourse
-Free Python course :)
+
